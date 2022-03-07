@@ -52,9 +52,17 @@
 
 ## Таблица плееров
 
+### PC
 | Windows | Linux | Cross |
 | --- | --- | --- |
 | [foobar](https://www.foobar2000.org/) | [sayonara](https://sayonara-player.com/) | [quod libet](https://github.com/quodlibet/quodlibet)
+| [AIMP](https://www.aimp.ru) | [TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) | [VLC](https://www.videolan.org/vlc/)
+
+### Мобильные устройства
+| Бесплатные | Платные | 
+| --- | --- |
+| AIMP ([Google Play](https://play.google.com/store/apps/details?id=com.aimp.player)) | Neutron ([Google Play](https://play.google.com/store/apps/details?id=com.neutroncode.mp) / [App Store](https://apps.apple.com/us/app/neutron-music-player/id766858884)) |
+| VLC ([Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) / [App Store](https://apps.apple.com/ru/app/vlc-for-mobile/id650377962)) | Poweramp ([Google Play](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)) |
 
 Предлагайте другие плееры, с которыми у вас есть опыт. Консольные не предлагать, ради доступности для всех юзеров.
  
