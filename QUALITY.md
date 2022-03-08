@@ -18,5 +18,5 @@
 7. Youtube - на крайний случай, выдаёт 128kbs.
 
 ## Полезные утилиты / патчи / ссылки
-1. NLSound ([Github](https://github.com/Briclyaz/NLSound_module_QCom) | [4PDA](https://4pda.to/forum/index.php?showtopic=1035650)) - полезный модуль для улучшения качества звука на Android.
-2. Viper4Android ([XDA](https://forum.xda-developers.com/t/app-official-viper4android-audio-effects-fx-v2-5-0-5-new-features-7-0-support.2191223/) | [4PDA](https://4pda.to/forum/index.php?showtopic=405989)) - один из лучших эквалайзеров для Android. При помощи него даже из самых посредственных наушников можно извлечь относительно терпимый звук.
+* NLSound ([Github](https://github.com/Briclyaz/NLSound_module_QCom) | [4PDA](https://4pda.to/forum/index.php?showtopic=1035650)) - полезный модуль для улучшения качества звука на Android.
+* Viper4Android ([XDA](https://forum.xda-developers.com/t/app-official-viper4android-audio-effects-fx-v2-5-0-5-new-features-7-0-support.2191223/) | [4PDA](https://4pda.to/forum/index.php?showtopic=405989)) - один из лучших эквалайзеров для Android. При помощи него даже из самых посредственных наушников можно извлечь относительно терпимый звук.
