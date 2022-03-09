@@ -54,7 +54,7 @@
 
 ### Что нужно:
 1. [Python](https://www.python.org/) 3.6+
-2. [FFMpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip) (гайд установки на русском ниже)
+2. [FFMpeg](https://ffmpeg.org/) (гайд установки на русском ниже)
 3. Аккаунт Spotify
 
 ### Порядок действий:
