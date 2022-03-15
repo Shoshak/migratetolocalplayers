@@ -146,3 +146,12 @@ pip install spotify_dl
 
 ## Полезные утилиты / патчи / ссылки
 * [Audacity](https://www.audacityteam.org/) ([Tenacity](https://github.com/tenacityteam/tenacity) для отсутствия телеметрии) - удобный инструмент для редактирования аудиофайлов
+
+## Лицензия
+migratetolocalplayers (c) by [Shoshak](https://github.com/Shoshak), [OlegSea](https://github.com/OlegSea), [Yarosawd](https://github.com/yarosawd)
+
+migratetolocalplayers is licensed under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
