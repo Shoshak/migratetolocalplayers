@@ -129,6 +129,9 @@ pip install spotify_dl
 | AIMP ([Google Play](https://play.google.com/store/apps/details?id=com.aimp.player)) | Neutron ([Google Play](https://play.google.com/store/apps/details?id=com.neutroncode.mp) / [App Store](https://apps.apple.com/us/app/neutron-music-player/id766858884)) |
 | VLC ([Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) / [App Store](https://apps.apple.com/ru/app/vlc-for-mobile/id650377962)) | Poweramp ([Google Play](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer)) |
 
+### Honourable mention
+[MPD](https://github.com/MusicPlayerDaemon/MPD) - музыкальный плеер, работающий по технологии клиент-сервер. Доступен на всех ОС на ПК, а также на Android. Запускаете в фоне сам mpd, предварительно его немного настроив, а дальше для взаимодействия с ним можно использовать любой клиент на ваш вкус. Подробный список десктоп клиентов можно найти [тут](https://wiki.archlinux.org/title/Music_Player_Daemon#Clients), а для Android подойдет [M.A.L.P.](https://play.google.com/store/apps/details?id=org.gateshipone.malp&hl=en&gl=US). С этим плеером разобраться сложнее, чем с перечисленными выше, однако сам mpd способен выдавать хорошее качество звука, потребляя при этом минимум ресурсов и предоставляя очень большой потенциал для кастомизации. А за счёт клиент-серверной модели любой может написать свой клиент с кастомизациями под себя, сохраняя все фишки mpd.
+
 Предлагайте другие плееры, с которыми у вас есть опыт. Консольные не предлагать, ради доступности для всех юзеров.
  
 ## Синхронное прослушивание
